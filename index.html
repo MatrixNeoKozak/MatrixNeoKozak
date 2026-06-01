@@ -1,0 +1,251 @@
+<!DOCTYPE html> 
+<html lang="ru"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
+    <title>Matrix ASCII Galaxy Animation</title> 
+    <style> 
+        body { 
+            background-color: #0b0b14; 
+            margin: 0; 
+            padding: 0; 
+            overflow: hidden; 
+            min-height: 100vh; 
+            width: 100vw; 
+        } 
+
+        #ascii-canvas { 
+            position: fixed; 
+            top: 0; 
+            left: 0; 
+            width: 100vw; 
+            height: 100vh; 
+            pointer-events: none; 
+            opacity: 0.93; 
+            transform-origin: center center; 
+            transition: transform 0.3s ease; 
+        } 
+
+        /* Поворот для мобильных в портретной ориентации */ 
+        @media screen and (max-width: 768px) and (orientation: portrait) { 
+            #ascii-canvas { 
+                width: 100vh; 
+                height: 100vw; 
+                top: 50%; 
+                left: 50%; 
+                transform: translate(-50%, -50%) rotate(90deg); 
+            } 
+        } 
+    </style> 
+</head> 
+<body> 
+
+    <canvas id="ascii-canvas"></canvas> 
+
+    <script> 
+        const canvas = document.getElementById('ascii-canvas'); 
+        const ctx = canvas.getContext('2d'); 
+
+        let width, height; 
+        let dpr = window.devicePixelRatio || 1; 
+
+        // Базовые размеры одного ASCII-символа 
+        const baseCharWidth = 9; 
+        const baseCharHeight = 14; 
+
+        function resize() { 
+            dpr = window.devicePixelRatio || 1; 
+            const isPortrait = window.innerWidth < window.innerHeight && window.innerWidth < 768; 
+             
+            let cssWidth = isPortrait ? window.innerHeight : window.innerWidth; 
+            let cssHeight = isPortrait ? window.innerWidth : window.innerHeight; 
+
+            width = cssWidth; 
+            height = cssHeight; 
+
+            canvas.width = cssWidth * dpr; 
+            canvas.height = cssHeight * dpr; 
+        } 
+
+        window.addEventListener('resize', resize); 
+        window.addEventListener('orientationchange', () => { 
+            setTimeout(resize, 200); 
+        }); 
+
+        resize(); 
+
+        const stars = []; 
+        const numStars = 3500; 
+        const maxRadius = Math.max(width, height) * 0.6; 
+
+        for (let i = 0; i < numStars; i++) { 
+            const rand = Math.random(); 
+            let r, armAngle, dispersion, type; 
+             
+            if (rand < 0.30) { 
+                type = 'core'; 
+                r = Math.pow(Math.random(), 2.0) * (maxRadius * 0.25); 
+                armAngle = Math.random() * Math.PI * 2; 
+                dispersion = 0; 
+            } else if (rand < 0.82) { 
+                type = 'arm'; 
+                r = 10 + Math.pow(Math.random(), 1.1) * (maxRadius - 10); 
+                const armIndex = Math.floor(Math.random() * 4); 
+                armAngle = armIndex * (Math.PI / 2);  
+                const rRatio = r / maxRadius; 
+                const dispersionFactor = 1.0 - rRatio * 0.7;  
+                dispersion = (Math.random() - 0.5) * 0.85 * dispersionFactor; 
+            } else { 
+                type = 'dust'; 
+                r = 10 + Math.random() * (maxRadius - 10); 
+                armAngle = Math.random() * Math.PI * 2; 
+                dispersion = 0; 
+            } 
+
+            stars.push({ 
+                r: r, 
+                armAngle: armAngle, 
+                dispersion: dispersion, 
+                type: type, 
+                pulseSpeed: 0.005 + Math.random() * 0.012, 
+                pulseOffset: Math.random() * Math.PI * 2 
+            }); 
+        } 
+
+        let rotation = 0; 
+
+        const textCanvas = document.createElement('canvas'); 
+        const textCtx = textCanvas.getContext('2d'); 
+
+        function drawGalaxy() { 
+            ctx.clearRect(0, 0, canvas.width, canvas.height); 
+
+            ctx.save(); 
+            ctx.scale(dpr, dpr); 
+             
+            const cx = width / 2; 
+            const cy = height / 2; 
+            rotation += 0.0007; 
+
+            const tilt = Math.cos(1.15);  
+
+            const cols = Math.ceil(width / baseCharWidth); 
+            const rows = Math.ceil(height / baseCharHeight); 
+             
+            const grid = new Float32Array(cols * rows); 
+            const textMask = new Uint8Array(cols * rows); 
+
+            textCanvas.width = cols; 
+            textCanvas.height = rows; 
+            textCtx.fillStyle = '#000000'; 
+            textCtx.fillRect(0, 0, cols, rows); 
+            textCtx.fillStyle = '#ffffff'; 
+            textCtx.textAlign = 'center'; 
+            textCtx.textBaseline = 'middle'; 
+
+            // УМНАЯ И ЧЕСТНАЯ АДАПТИВНОСТЬ КК НА ПК
+            const isMobile = window.innerWidth < 768; 
+            let fontSize; 
+
+            if (isMobile) { 
+                // Вместо фиксированного огромного размера считаем динамически от ширины сетки (как на ПК)
+                // Коэффициент 0.125 идеально вписывает самую длинную строчку "Kozak Lord" в экран смартфона
+                fontSize = Math.floor(cols * 0.125); 
+                textCtx.font = 'bold ' + fontSize + 'px monospace'; 
+                
+                // Центрируем строки с мягким адаптивным отступом
+                textCtx.fillText('Kozak Lord', cols / 2, rows / 2 - fontSize * 0.55); 
+                textCtx.fillText('Of Matrix', cols / 2, rows / 2 + fontSize * 0.55); 
+            } else { 
+                // Классический десктопный вариант
+                fontSize = Math.floor(cols * 0.075); 
+                textCtx.font = 'bold ' + fontSize + 'px monospace'; 
+                textCtx.fillText('Kozak Lord Of Matrix', cols / 2, rows / 2); 
+            } 
+
+            const imgData = textCtx.getImageData(0, 0, cols, rows).data; 
+            for (let i = 0; i < imgData.length; i += 4) { 
+                if (imgData[i] > 128) { 
+                    textMask[i / 4] = 1; 
+                } 
+            } 
+
+            for (let i = 0; i < numStars; i++) { 
+                const star = stars[i]; 
+                const winding = star.type === 'core' ? 0 : (star.r * 0.0062);  
+                const angle = star.armAngle + winding + star.dispersion + rotation; 
+
+                const x = Math.cos(angle) * star.r; 
+                const y = Math.sin(angle) * star.r; 
+
+                const px = cx + x; 
+                const py = cy + y * tilt; 
+
+                const c = Math.floor(px / baseCharWidth); 
+                const rIdx = Math.floor(py / baseCharHeight); 
+
+                if (c >= 0 && c < cols && rIdx >= 0 && rIdx < rows) { 
+                    const pulse = Math.sin(Date.now() * star.pulseSpeed + star.pulseOffset) * 0.2 + 0.8; 
+                    const edgeFade = 1.0 - (star.r / maxRadius) * 0.4; 
+                    const intensity = pulse * edgeFade; 
+
+                    grid[rIdx * cols + c] += intensity; 
+                     
+                    if (c > 0) grid[rIdx * cols + (c - 1)] += intensity * 0.2; 
+                    if (c < cols - 1) grid[rIdx * cols + (c + 1)] += intensity * 0.2; 
+                } 
+            } 
+
+            ctx.font = '10px monospace'; 
+            ctx.textAlign = 'center'; 
+            ctx.textBaseline = 'middle'; 
+
+            const ramp = [' ', '.', ':', '-', '=', '+', '*', 'o', 'e', 'O', 'S', '#', '@']; 
+
+            for (let rIdx = 0; rIdx < rows; rIdx++) { 
+                for (let c = 0; c < cols; c++) { 
+                    const idx = rIdx * cols + c; 
+                    let val = grid[idx]; 
+                    const isText = textMask[idx] === 1; 
+
+                    if (isText) { 
+                        val = Math.max(val, 0.4);  
+                    } 
+
+                    if (val > 0.06) { 
+                        let char; 
+                        let color; 
+
+                        if (isText) { 
+                            char = '@'; 
+                            const brightness = Math.min(1, 0.4 + val * 0.6); 
+                            color = `rgba(0, 255, 127, ${brightness})`; 
+                        } else { 
+                            const rampIdx = Math.min(ramp.length - 1, Math.floor(val * 4)); 
+                            char = ramp[rampIdx]; 
+
+                            if (val > 0.95) { 
+                                color = '#ffffff'; 
+                            } else if (val > 0.55) { 
+                                color = '#b399ff'; 
+                            } else if (val > 0.22) { 
+                                color = 'rgba(0, 230, 118, 0.35)'; 
+                            } else if (val > 0.08) { 
+                                color = 'rgba(158, 160, 176, 0.25)'; 
+                            } 
+                        } 
+
+                        ctx.fillStyle = color; 
+                        ctx.fillText(char, c * baseCharWidth + baseCharWidth / 2, rIdx * baseCharHeight + baseCharHeight / 2); 
+                    } 
+                } 
+            } 
+
+            ctx.restore(); 
+            requestAnimationFrame(drawGalaxy); 
+        } 
+
+        drawGalaxy(); 
+    </script> 
+</body> 
+</html>
