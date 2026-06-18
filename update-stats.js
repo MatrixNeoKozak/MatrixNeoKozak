@@ -27,22 +27,9 @@ async function getStats() {
       console.warn("Warning: GITHUB_TOKEN environment variable is not set. API rate limits will be very restrictive.");
     }
 
-    console.log("Searching for commits by author...");
-    const commitData = await githubRequest(`https://api.github.com/search/commits?q=author:${USERNAME}`, {
-      headers: {
-        Accept: 'application/vnd.github.cloak-preview+json'
-      }
-    });
-
+    console.log("Searching for merged PRs by author...");
+    const prData = await githubRequest(`https://api.github.com/search/issues?q=is:pr+author:${USERNAME}+is:merged`);
     const reposSet = new Set();
-    for (const item of commitData.items || []) {
-      if (item.repository) {
-        reposSet.add(item.repository.full_name);
-      }
-    }
-
-    console.log("Searching for issues/PRs by author...");
-    const prData = await githubRequest(`https://api.github.com/search/issues?q=is:pr+author:${USERNAME}`);
     for (const item of prData.items || []) {
       const parts = item.repository_url.split('/repos/');
       if (parts.length > 1) {
@@ -51,7 +38,7 @@ async function getStats() {
     }
 
     const reposList = Array.from(reposSet).filter(r => r.toLowerCase() !== `${USERNAME}/${USERNAME}`.toLowerCase());
-    console.log(`Found ${reposList.length} unique contributed repositories.`);
+    console.log(`Found ${reposList.length} unique contributed repositories (with merged PRs).`);
 
     console.log("Fetching repository details...");
     const repoDetails = [];
