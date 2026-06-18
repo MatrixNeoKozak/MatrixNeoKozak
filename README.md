@@ -83,6 +83,37 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 
 ---
 
+### 🚀 Open Source Contributions & Impact
+
+<!-- STATS_SECTION:START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributed%20Repositories-45-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-69,458-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+</p>
+
+### 🏆 Top Contributed Repositories (by Stars)
+
+| Repository | Stars | Language | Description |
+| :--- | :---: | :---: | :--- |
+| **[IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux)** | ⭐ 4,782 | `JavaScript` | Unofficial Microsoft Teams for Linux client |
+| **[xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)** | ⭐ 4,437 | `JavaScript` | Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives |
+| **[gnmyt/Nexterm](https://github.com/gnmyt/Nexterm)** | ⭐ 4,424 | `JavaScript` | The open source server management software for SSH, VNC & RDP |
+| **[open-gsd/gsd-core](https://github.com/open-gsd/gsd-core)** | ⭐ 4,379 | `JavaScript` | Git. Ship. Done - Core |
+| **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,000 | `JavaScript` | The largest Node.js CLI Apps best practices list ✨ |
+| **[jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)** | ⭐ 3,655 | `JavaScript` | The Free Software Media System - Official Web Client |
+| **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,016 | `JavaScript` | Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++ |
+| **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 2,824 | `JavaScript` | Windsurf OpenAI-compatible and Anthropic-compatible LLM API proxy |
+| **[supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory)** | ⭐ 2,664 | `JavaScript` | Enable Claude Code to learn in real-time, update it's knowledge, and grow with you, using supermemory. |
+| **[pschlan/cron-job.org](https://github.com/pschlan/cron-job.org)** | ⭐ 1,966 | `JavaScript` | cron-job.org Open Source project |
+| **[ollm/OpenComic](https://github.com/ollm/OpenComic)** | ⭐ 1,880 | `JavaScript` | Comic and Manga reader, written with Node.js and using Electron |
+| **[Rob--W/crxviewer](https://github.com/Rob--W/crxviewer)** | ⭐ 1,686 | `JavaScript` | Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files. |
+| **[ilysenko/codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux)** | ⭐ 1,664 | `JavaScript` | Run OpenAI Codex Desktop on Linux - automated installer |
+| **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,619 | `JavaScript` | IP CIDRs List / IP 地址列表 |
+| **[prebid/Prebid.js](https://github.com/prebid/Prebid.js)** | ⭐ 1,585 | `JavaScript` | Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free. |
+<!-- STATS_SECTION:END -->
+
+---
+
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/MatrixNeoKozak/MatrixNeoKozak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
