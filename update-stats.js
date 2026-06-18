@@ -30,10 +30,21 @@ async function getStats() {
     console.log("Searching for merged PRs by author...");
     const prData = await githubRequest(`https://api.github.com/search/issues?q=is:pr+author:${USERNAME}+is:merged`);
     const reposSet = new Set();
+    const latestPrs = {};
     for (const item of prData.items || []) {
       const parts = item.repository_url.split('/repos/');
       if (parts.length > 1) {
-        reposSet.add(parts[1]);
+        const repoFullName = parts[1];
+        reposSet.add(repoFullName);
+        const currentLatest = latestPrs[repoFullName];
+        if (!currentLatest || new Date(item.created_at) > new Date(currentLatest.created_at)) {
+          latestPrs[repoFullName] = {
+            number: item.number,
+            htmlUrl: item.html_url,
+            title: item.title,
+            created_at: item.created_at
+          };
+        }
       }
     }
 
@@ -82,7 +93,7 @@ async function getStats() {
 
 ### 🏆 Top Contributed Repositories (by Stars)
 
-| Repository | Stars | Language | Description |
+| Repository | Stars | Last Merged PR | Description |
 | :--- | :---: | :---: | :--- |
 `;
 
@@ -90,7 +101,9 @@ async function getStats() {
     const topRepos = repoDetails.slice(0, 15);
     for (const repo of topRepos) {
       const cleanDesc = repo.description.replace(/\|/g, '\\|').replace(/\n/g, ' ');
-      markdown += `| **[${repo.fullName}](${repo.htmlUrl})** | ⭐ ${repo.stars.toLocaleString()} | \`${repo.language}\` | ${cleanDesc} |\n`;
+      const pr = latestPrs[repo.fullName];
+      const prLink = pr ? `[#${pr.number}](${pr.htmlUrl} "${pr.title.replace(/"/g, '&quot;')}")` : '-';
+      markdown += `| **[${repo.fullName}](${repo.htmlUrl})** | ⭐ ${repo.stars.toLocaleString()} | ${prLink} | ${cleanDesc} |\n`;
     }
 
     markdown += `<!-- STATS_SECTION:END -->`;
