@@ -2,8 +2,8 @@ name: Update Open Source Stats
 
 on:
   schedule:
-    # Run every 12 hours (offset by 30 mins from snake generator)
-    - cron: "30 */12 * * *"
+    # Run every 30 minutes
+    - cron: "*/30 * * * *"
   workflow_dispatch:
   push:
     branches:
