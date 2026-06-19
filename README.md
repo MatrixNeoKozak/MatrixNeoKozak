@@ -87,8 +87,8 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 
 <!-- STATS_SECTION:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributed%20Repositories-29-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-24,327-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Contributed%20Repositories-30-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-27,577-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -97,19 +97,19 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | :--- | :---: | :---: | :--- |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,001 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
 | **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,016 | [#174](https://github.com/xyproto/algernon/pull/174 "feat: allow SIGUSR2 to clear the cache") | Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++ |
-| **[ollm/OpenComic](https://github.com/ollm/OpenComic)** | ⭐ 1,880 | [#596](https://github.com/ollm/OpenComic/pull/596 "fix: ensure window closes even if cleanup fails") | Comic and Manga reader, written with Node.js and using Electron |
+| **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 2,844 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
+| **[ollm/OpenComic](https://github.com/ollm/OpenComic)** | ⭐ 1,882 | [#596](https://github.com/ollm/OpenComic/pull/596 "fix: ensure window closes even if cleanup fails") | Comic and Manga reader, written with Node.js and using Electron |
 | **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,619 | [#29](https://github.com/metowolf/iplist/pull/29 "fix(ci): use rm -rf for robust data cleanup") | IP CIDRs List / IP 地址列表 |
-| **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,518 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
-| **[cweijan/vscode-office](https://github.com/cweijan/vscode-office)** | ⭐ 1,405 | [#464](https://github.com/cweijan/vscode-office/pull/464 "fix: standardize build script in package.json") | Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor. |
-| **[ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator)** | ⭐ 1,238 | [#335](https://github.com/ttop32/MouseTooltipTranslator/pull/335 "fix: improve preference persistence and merging logic") | Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH |
-| **[develop202/migu_video](https://github.com/develop202/migu_video)** | ⭐ 1,193 | [#122](https://github.com/develop202/migu_video/pull/122 "fix: correct mergeTVCategory logic and enhance network reliability") | No description provided. |
+| **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,519 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
+| **[cweijan/vscode-office](https://github.com/cweijan/vscode-office)** | ⭐ 1,406 | [#464](https://github.com/cweijan/vscode-office/pull/464 "fix: standardize build script in package.json") | Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor. |
+| **[ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator)** | ⭐ 1,240 | [#335](https://github.com/ttop32/MouseTooltipTranslator/pull/335 "fix: improve preference persistence and merging logic") | Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH |
+| **[develop202/migu_video](https://github.com/develop202/migu_video)** | ⭐ 1,195 | [#122](https://github.com/develop202/migu_video/pull/122 "fix: correct mergeTVCategory logic and enhance network reliability") | No description provided. |
+| **[datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli)** | ⭐ 933 | [#1322](https://github.com/datacontract/datacontract-cli/pull/1322 "refactor: remove redundant logic in DataContract.export") | Enforce Data Contracts |
 | **[DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource)** | ⭐ 894 | [#80](https://github.com/DowneyRem/PixivSource/pull/80 "fix: add file existence checks to RSS builder scripts") | 最好的 Pixiv 第三方小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, the Best Third-Party Novel Reader for Pixiv |
 | **[coderaiser/putout](https://github.com/coderaiser/putout)** | ⭐ 793 | [#240](https://github.com/coderaiser/putout/pull/240 "chore: ci: remove force flag from bun install") | 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with superpowers 💪: built-in support of js, jsx, ts, markdown, yaml, toml, json and ignore. Write declarative codemods in a simplest possible way 😏 |
+| **[Darkatse/TauriTavern](https://github.com/Darkatse/TauriTavern)** | ⭐ 712 | [#95](https://github.com/Darkatse/TauriTavern/pull/95 "fix: add input validation for tauri bridge interface") | The classic Sillytavern, now has been rewritten in Tauri/Rust. |
 | **[steve02081504/fount](https://github.com/steve02081504/fount)** | ⭐ 706 | [#225](https://github.com/steve02081504/fount/pull/225 "refactor: remove dangerous force flag from git update script") | ⛲Imagination, Given Voice.✨ |
-| **[timothepoznanski/poznote](https://github.com/timothepoznanski/poznote)** | ⭐ 674 | [#1049](https://github.com/timothepoznanski/poznote/pull/1049 "fix: README.md") | Poznote is a note-taking and documentation platform. |
-| **[Techtonica/curriculum](https://github.com/Techtonica/curriculum)** | ⭐ 657 | [#2737](https://github.com/Techtonica/curriculum/pull/2737 "Add missing 'react-dom' dependency to Working_with_React_Testing_Library package.json") | This repo contains the curriculum of Techtonica, a tech training program for women and non-binary adults with low incomes. |
-| **[fastify/fastify-rate-limit](https://github.com/fastify/fastify-rate-limit)** | ⭐ 596 | [#446](https://github.com/fastify/fastify-rate-limit/pull/446 "Fix Unsafe SQL Queries in Knex Example Files") | A low overhead rate limiter for your routes |
-| **[reymond-group/smilesDrawer](https://github.com/reymond-group/smilesDrawer)** | ⭐ 588 | [#295](https://github.com/reymond-group/smilesDrawer/pull/295 "fix: improve robustness of JSON parsing in data attributes") | A small, highly performant JavaScript component for parsing and drawing SMILES strings. Released under the MIT license. |
+| **[timothepoznanski/poznote](https://github.com/timothepoznanski/poznote)** | ⭐ 675 | [#1049](https://github.com/timothepoznanski/poznote/pull/1049 "fix: README.md") | Poznote is a note-taking and documentation platform. |
 <!-- STATS_SECTION:END -->
 
 ---
