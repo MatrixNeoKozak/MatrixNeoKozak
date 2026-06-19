@@ -88,7 +88,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-30-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-30,241-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-30,243-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -97,7 +97,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | :--- | :---: | :---: | :--- |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,002 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
 | **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,017 | [#174](https://github.com/xyproto/algernon/pull/174 "feat: allow SIGUSR2 to clear the cache") | Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++ |
-| **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 2,847 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
+| **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 2,848 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
 | **[NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)** | ⭐ 2,348 | [#1645](https://github.com/NASA-AMMOS/3DTilesRendererJS/pull/1645 "fix: vitest: include .tsx files in test execution") | Renderer for 3D Tiles in Javascript using three.js, Babylon.js, and r3f |
 | **[ollm/OpenComic](https://github.com/ollm/OpenComic)** | ⭐ 1,883 | [#596](https://github.com/ollm/OpenComic/pull/596 "fix: ensure window closes even if cleanup fails") | Comic and Manga reader, written with Node.js and using Electron |
 | **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,619 | [#29](https://github.com/metowolf/iplist/pull/29 "fix(ci): use rm -rf for robust data cleanup") | IP CIDRs List / IP 地址列表 |
