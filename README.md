@@ -88,14 +88,14 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-30-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-32,095-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-32,103-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
 
 | Repository | Stars | Last Merged PR | Description |
 | :--- | :---: | :---: | :--- |
-| **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,003 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
+| **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,004 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
 | **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,016 | [#174](https://github.com/xyproto/algernon/pull/174 "feat: allow SIGUSR2 to clear the cache") | Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++ |
 | **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 2,850 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
 | **[NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)** | ⭐ 2,349 | [#1645](https://github.com/NASA-AMMOS/3DTilesRendererJS/pull/1645 "fix: vitest: include .tsx files in test execution") | Renderer for 3D Tiles in Javascript using three.js, Babylon.js, and r3f |
@@ -108,8 +108,8 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[develop202/migu_video](https://github.com/develop202/migu_video)** | ⭐ 1,208 | [#122](https://github.com/develop202/migu_video/pull/122 "fix: correct mergeTVCategory logic and enhance network reliability") | No description provided. |
 | **[datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli)** | ⭐ 934 | [#1322](https://github.com/datacontract/datacontract-cli/pull/1322 "refactor: remove redundant logic in DataContract.export") | Enforce Data Contracts |
 | **[DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource)** | ⭐ 897 | [#80](https://github.com/DowneyRem/PixivSource/pull/80 "fix: add file existence checks to RSS builder scripts") | 最好的 Pixiv 第三方小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, the Best Third-Party Novel Reader for Pixiv |
-| **[coderaiser/putout](https://github.com/coderaiser/putout)** | ⭐ 793 | [#240](https://github.com/coderaiser/putout/pull/240 "chore: ci: remove force flag from bun install") | 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with superpowers 💪: built-in support of js, jsx, ts, markdown, yaml, toml, json and ignore. Write declarative codemods in a simplest possible way 😏 |
-| **[Darkatse/TauriTavern](https://github.com/Darkatse/TauriTavern)** | ⭐ 738 | [#95](https://github.com/Darkatse/TauriTavern/pull/95 "fix: add input validation for tauri bridge interface") | The classic Sillytavern, now has been rewritten in Tauri/Rust. |
+| **[coderaiser/putout](https://github.com/coderaiser/putout)** | ⭐ 794 | [#240](https://github.com/coderaiser/putout/pull/240 "chore: ci: remove force flag from bun install") | 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with superpowers 💪: built-in support of js, jsx, ts, markdown, yaml, toml, json and ignore. Write declarative codemods in a simplest possible way 😏 |
+| **[Darkatse/TauriTavern](https://github.com/Darkatse/TauriTavern)** | ⭐ 742 | [#95](https://github.com/Darkatse/TauriTavern/pull/95 "fix: add input validation for tauri bridge interface") | The classic Sillytavern, now has been rewritten in Tauri/Rust. |
 <!-- STATS_SECTION:END -->
 
 ---
