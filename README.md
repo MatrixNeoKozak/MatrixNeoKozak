@@ -88,7 +88,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-30-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-32,103-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-32,107-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -107,9 +107,9 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator)** | ⭐ 1,240 | [#335](https://github.com/ttop32/MouseTooltipTranslator/pull/335 "fix: improve preference persistence and merging logic") | Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH |
 | **[develop202/migu_video](https://github.com/develop202/migu_video)** | ⭐ 1,208 | [#122](https://github.com/develop202/migu_video/pull/122 "fix: correct mergeTVCategory logic and enhance network reliability") | No description provided. |
 | **[datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli)** | ⭐ 934 | [#1322](https://github.com/datacontract/datacontract-cli/pull/1322 "refactor: remove redundant logic in DataContract.export") | Enforce Data Contracts |
-| **[DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource)** | ⭐ 897 | [#80](https://github.com/DowneyRem/PixivSource/pull/80 "fix: add file existence checks to RSS builder scripts") | 最好的 Pixiv 第三方小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, the Best Third-Party Novel Reader for Pixiv |
+| **[DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource)** | ⭐ 898 | [#80](https://github.com/DowneyRem/PixivSource/pull/80 "fix: add file existence checks to RSS builder scripts") | 最好的 Pixiv 第三方小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, the Best Third-Party Novel Reader for Pixiv |
 | **[coderaiser/putout](https://github.com/coderaiser/putout)** | ⭐ 794 | [#240](https://github.com/coderaiser/putout/pull/240 "chore: ci: remove force flag from bun install") | 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter with superpowers 💪: built-in support of js, jsx, ts, markdown, yaml, toml, json and ignore. Write declarative codemods in a simplest possible way 😏 |
-| **[Darkatse/TauriTavern](https://github.com/Darkatse/TauriTavern)** | ⭐ 742 | [#95](https://github.com/Darkatse/TauriTavern/pull/95 "fix: add input validation for tauri bridge interface") | The classic Sillytavern, now has been rewritten in Tauri/Rust. |
+| **[Darkatse/TauriTavern](https://github.com/Darkatse/TauriTavern)** | ⭐ 746 | [#95](https://github.com/Darkatse/TauriTavern/pull/95 "fix: add input validation for tauri bridge interface") | The classic Sillytavern, now has been rewritten in Tauri/Rust. |
 <!-- STATS_SECTION:END -->
 
 ---
