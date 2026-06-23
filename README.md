@@ -88,7 +88,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-30-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-35,040-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-35,043-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -105,7 +105,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,623 | [#29](https://github.com/metowolf/iplist/pull/29 "fix(ci): use rm -rf for robust data cleanup") | IP CIDRs List / IP 地址列表 |
 | **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,538 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 | **[cweijan/vscode-office](https://github.com/cweijan/vscode-office)** | ⭐ 1,413 | [#464](https://github.com/cweijan/vscode-office/pull/464 "fix: standardize build script in package.json") | Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor. |
-| **[ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator)** | ⭐ 1,240 | [#335](https://github.com/ttop32/MouseTooltipTranslator/pull/335 "fix: improve preference persistence and merging logic") | Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH |
+| **[ttop32/MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator)** | ⭐ 1,241 | [#335](https://github.com/ttop32/MouseTooltipTranslator/pull/335 "fix: improve preference persistence and merging logic") | Mouseover Translate Any Language At Once - Chrome Extension: PDF Translator, EBOOK, EPUB, OCR, TTS, NETFLIX, YOUTUBE DUAL SUBTITLES, GOOGLE DOCS, AI, VIEWER, GMAIL, WRITING, IMAGE, DUAL SUBS, MANGA, HOVER, DICTIONARY, WEBTOON, EDGE, JAPANESE, ENGLISH |
 | **[develop202/migu_video](https://github.com/develop202/migu_video)** | ⭐ 1,211 | [#122](https://github.com/develop202/migu_video/pull/122 "fix: correct mergeTVCategory logic and enhance network reliability") | No description provided. |
 | **[datacontract/datacontract-cli](https://github.com/datacontract/datacontract-cli)** | ⭐ 937 | [#1322](https://github.com/datacontract/datacontract-cli/pull/1322 "refactor: remove redundant logic in DataContract.export") | Enforce Data Contracts |
 | **[DowneyRem/PixivSource](https://github.com/DowneyRem/PixivSource)** | ⭐ 902 | [#80](https://github.com/DowneyRem/PixivSource/pull/80 "fix: add file existence checks to RSS builder scripts") | 最好的 Pixiv 第三方小说阅读器——开源阅读 + Pixiv 书源 / Legado with Pixiv BookSource, the Best Third-Party Novel Reader for Pixiv |
