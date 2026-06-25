@@ -28,10 +28,23 @@ async function getStats() {
     }
 
     console.log("Searching for merged PRs by author...");
-    const prData = await githubRequest(`https://api.github.com/search/issues?q=is:pr+author:${USERNAME}+is:merged`);
+    let page = 1;
+    const items = [];
+    while (true) {
+      const data = await githubRequest(`https://api.github.com/search/issues?q=is:pr+author:${USERNAME}+is:merged&per_page=100&page=${page}`);
+      if (!data.items || data.items.length === 0) {
+        break;
+      }
+      items.push(...data.items);
+      if (items.length >= data.total_count) {
+        break;
+      }
+      page++;
+    }
+
     const reposSet = new Set();
     const latestPrs = {};
-    for (const item of prData.items || []) {
+    for (const item of items) {
       const parts = item.repository_url.split('/repos/');
       if (parts.length > 1) {
         const repoFullName = parts[1];
