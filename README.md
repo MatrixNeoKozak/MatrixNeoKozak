@@ -88,7 +88,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-51-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-52,498-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-52,505-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -108,7 +108,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,566 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 | **[zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate)** | ⭐ 1,562 | [#241](https://github.com/zeon-studio/hugoplate/pull/241 "refactor: improve robustness and security of theme update script") | Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work. |
 | **[psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)** | ⭐ 1,559 | [#67](https://github.com/psalias2006/gpu-hot/pull/67 "Fix font-display swap issue in Google Fonts link causing slow rendering") | 🔥 Real-time NVIDIA GPU dashboard |
-| **[cweijan/vscode-office](https://github.com/cweijan/vscode-office)** | ⭐ 1,430 | [#464](https://github.com/cweijan/vscode-office/pull/464 "fix: standardize build script in package.json") | Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor. |
+| **[cweijan/vscode-office](https://github.com/cweijan/vscode-office)** | ⭐ 1,432 | [#464](https://github.com/cweijan/vscode-office/pull/464 "fix: standardize build script in package.json") | Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor. |
 | **[gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender)** | ⭐ 1,331 | [#377](https://github.com/gioxx/MarvellousSuspender/pull/377 "refactor: use native chrome.storage objects instead of JSON serialization") | Free your memory. Suspend what you don't need. |
 <!-- STATS_SECTION:END -->
 
