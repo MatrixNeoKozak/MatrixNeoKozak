@@ -88,7 +88,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-52-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-54,558-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-54,569-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -97,7 +97,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | :--- | :---: | :---: | :--- |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,005 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
 | **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,017 | [#174](https://github.com/xyproto/algernon/pull/174 "feat: allow SIGUSR2 to clear the cache") | Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++ |
-| **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 2,869 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
+| **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 2,870 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
 | **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 2,865 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Windsurf OpenAI-compatible and Anthropic-compatible LLM API proxy |
 | **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 2,631 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | The next-generation ad blocker for Safari. |
 | **[NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)** | ⭐ 2,374 | [#1645](https://github.com/NASA-AMMOS/3DTilesRendererJS/pull/1645 "fix: vitest: include .tsx files in test execution") | Renderer for 3D Tiles in Javascript using three.js, Babylon.js, and r3f |
@@ -109,7 +109,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,572 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 | **[zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate)** | ⭐ 1,564 | [#241](https://github.com/zeon-studio/hugoplate/pull/241 "refactor: improve robustness and security of theme update script") | Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work. |
 | **[psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)** | ⭐ 1,556 | [#67](https://github.com/psalias2006/gpu-hot/pull/67 "Fix font-display swap issue in Google Fonts link causing slow rendering") | 🔥 Real-time NVIDIA GPU dashboard |
-| **[cweijan/vscode-office](https://github.com/cweijan/vscode-office)** | ⭐ 1,490 | [#464](https://github.com/cweijan/vscode-office/pull/464 "fix: standardize build script in package.json") | Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor. |
+| **[cweijan/vscode-office](https://github.com/cweijan/vscode-office)** | ⭐ 1,491 | [#464](https://github.com/cweijan/vscode-office/pull/464 "fix: standardize build script in package.json") | Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor. |
 <!-- STATS_SECTION:END -->
 
 ---
