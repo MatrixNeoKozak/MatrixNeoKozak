@@ -88,7 +88,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-52-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-54,593-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-54,605-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -104,12 +104,12 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[ollm/OpenComic](https://github.com/ollm/OpenComic)** | ⭐ 1,896 | [#596](https://github.com/ollm/OpenComic/pull/596 "fix: ensure window closes even if cleanup fails") | Comic and Manga reader, written with Node.js and using Electron |
 | **[appium/appium-inspector](https://github.com/appium/appium-inspector)** | ⭐ 1,850 | [#2952](https://github.com/appium/appium-inspector/pull/2952 "fix(actions): extract shared timeout-handling logic and prevent silent failure in fetchAllSessions") | A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server |
 | **[gre/bezier-easing](https://github.com/gre/bezier-easing)** | ⭐ 1,775 | [#70](https://github.com/gre/bezier-easing/pull/70 "feat: add TypeScript definition files") | cubic-bezier implementation for your JavaScript animation easings – MIT License |
-| **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,631 | [#29](https://github.com/metowolf/iplist/pull/29 "fix(ci): use rm -rf for robust data cleanup") | IP CIDRs List / IP 地址列表 |
+| **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,632 | [#29](https://github.com/metowolf/iplist/pull/29 "fix(ci): use rm -rf for robust data cleanup") | IP CIDRs List / IP 地址列表 |
 | **[jmoenig/Snap](https://github.com/jmoenig/Snap)** | ⭐ 1,602 | [#3544](https://github.com/jmoenig/Snap/pull/3544 "Fix potential undefined reference to window.parent in TuneScope.js") | a visual programming language inspired by Scratch |
-| **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,572 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
+| **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,573 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 | **[zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate)** | ⭐ 1,564 | [#241](https://github.com/zeon-studio/hugoplate/pull/241 "refactor: improve robustness and security of theme update script") | Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work. |
-| **[psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)** | ⭐ 1,559 | [#67](https://github.com/psalias2006/gpu-hot/pull/67 "Fix font-display swap issue in Google Fonts link causing slow rendering") | 🔥 Real-time NVIDIA GPU dashboard |
-| **[cweijan/vscode-office](https://github.com/cweijan/vscode-office)** | ⭐ 1,493 | [#464](https://github.com/cweijan/vscode-office/pull/464 "fix: standardize build script in package.json") | Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor. |
+| **[psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)** | ⭐ 1,561 | [#67](https://github.com/psalias2006/gpu-hot/pull/67 "Fix font-display swap issue in Google Fonts link causing slow rendering") | 🔥 Real-time NVIDIA GPU dashboard |
+| **[cweijan/vscode-office](https://github.com/cweijan/vscode-office)** | ⭐ 1,494 | [#464](https://github.com/cweijan/vscode-office/pull/464 "fix: standardize build script in package.json") | Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor. |
 <!-- STATS_SECTION:END -->
 
 ---
