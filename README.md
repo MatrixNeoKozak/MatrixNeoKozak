@@ -88,14 +88,14 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-52-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-54,721-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-54,728-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
 
 | Repository | Stars | Last Merged PR | Description |
 | :--- | :---: | :---: | :--- |
-| **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,037 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
+| **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,040 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
 | **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,017 | [#174](https://github.com/xyproto/algernon/pull/174 "feat: allow SIGUSR2 to clear the cache") | Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++ |
 | **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 2,876 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
 | **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 2,869 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Windsurf OpenAI-compatible and Anthropic-compatible LLM API proxy |
@@ -109,7 +109,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,579 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 | **[psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)** | ⭐ 1,566 | [#67](https://github.com/psalias2006/gpu-hot/pull/67 "Fix font-display swap issue in Google Fonts link causing slow rendering") | 🔥 Real-time NVIDIA GPU dashboard |
 | **[zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate)** | ⭐ 1,565 | [#241](https://github.com/zeon-studio/hugoplate/pull/241 "refactor: improve robustness and security of theme update script") | Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work. |
-| **[cweijan/vscode-office](https://github.com/cweijan/vscode-office)** | ⭐ 1,507 | [#464](https://github.com/cweijan/vscode-office/pull/464 "fix: standardize build script in package.json") | Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor. |
+| **[cweijan/vscode-office](https://github.com/cweijan/vscode-office)** | ⭐ 1,508 | [#464](https://github.com/cweijan/vscode-office/pull/464 "fix: standardize build script in package.json") | Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor. |
 <!-- STATS_SECTION:END -->
 
 ---
