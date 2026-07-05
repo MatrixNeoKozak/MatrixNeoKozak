@@ -88,7 +88,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-52-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-54,889-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-54,890-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -96,7 +96,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | Repository | Stars | Last Merged PR | Description |
 | :--- | :---: | :---: | :--- |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,056 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
-| **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,017 | [#174](https://github.com/xyproto/algernon/pull/174 "feat: allow SIGUSR2 to clear the cache") | Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++ |
+| **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,016 | [#174](https://github.com/xyproto/algernon/pull/174 "feat: allow SIGUSR2 to clear the cache") | Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++ |
 | **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 2,880 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
 | **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 2,872 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Windsurf OpenAI-compatible and Anthropic-compatible LLM API proxy |
 | **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 2,641 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | The next-generation ad blocker for Safari. |
