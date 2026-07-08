@@ -88,7 +88,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-54-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-60,992-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-61,000-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -107,7 +107,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[gre/bezier-easing](https://github.com/gre/bezier-easing)** | ⭐ 1,775 | [#70](https://github.com/gre/bezier-easing/pull/70 "feat: add TypeScript definition files") | cubic-bezier implementation for your JavaScript animation easings – MIT License |
 | **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,636 | [#29](https://github.com/metowolf/iplist/pull/29 "fix(ci): use rm -rf for robust data cleanup") | IP CIDRs List / IP 地址列表 |
 | **[jmoenig/Snap](https://github.com/jmoenig/Snap)** | ⭐ 1,602 | [#3544](https://github.com/jmoenig/Snap/pull/3544 "Fix potential undefined reference to window.parent in TuneScope.js") | a visual programming language inspired by Scratch |
-| **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,589 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
+| **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,591 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 | **[psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)** | ⭐ 1,570 | [#67](https://github.com/psalias2006/gpu-hot/pull/67 "Fix font-display swap issue in Google Fonts link causing slow rendering") | 🔥 Real-time NVIDIA GPU dashboard |
 | **[zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate)** | ⭐ 1,565 | [#241](https://github.com/zeon-studio/hugoplate/pull/241 "refactor: improve robustness and security of theme update script") | Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work. |
 <!-- STATS_SECTION:END -->
