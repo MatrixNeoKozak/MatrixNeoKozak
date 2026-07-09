@@ -88,7 +88,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-56-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-66,730-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-66,729-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -103,7 +103,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 2,877 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Windsurf OpenAI-compatible and Anthropic-compatible LLM API proxy |
 | **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 2,646 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | The next-generation ad blocker for Safari. |
 | **[NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)** | ⭐ 2,380 | [#1645](https://github.com/NASA-AMMOS/3DTilesRendererJS/pull/1645 "fix: vitest: include .tsx files in test execution") | Renderer for 3D Tiles in Javascript using three.js, Babylon.js, and r3f |
-| **[ollm/OpenComic](https://github.com/ollm/OpenComic)** | ⭐ 1,903 | [#596](https://github.com/ollm/OpenComic/pull/596 "fix: ensure window closes even if cleanup fails") | Comic and Manga reader, written with Node.js and using Electron |
+| **[ollm/OpenComic](https://github.com/ollm/OpenComic)** | ⭐ 1,902 | [#596](https://github.com/ollm/OpenComic/pull/596 "fix: ensure window closes even if cleanup fails") | Comic and Manga reader, written with Node.js and using Electron |
 | **[appium/appium-inspector](https://github.com/appium/appium-inspector)** | ⭐ 1,853 | [#2952](https://github.com/appium/appium-inspector/pull/2952 "fix(actions): extract shared timeout-handling logic and prevent silent failure in fetchAllSessions") | A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server |
 | **[gre/bezier-easing](https://github.com/gre/bezier-easing)** | ⭐ 1,775 | [#70](https://github.com/gre/bezier-easing/pull/70 "feat: add TypeScript definition files") | cubic-bezier implementation for your JavaScript animation easings – MIT License |
 | **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,636 | [#29](https://github.com/metowolf/iplist/pull/29 "fix(ci): use rm -rf for robust data cleanup") | IP CIDRs List / IP 地址列表 |
