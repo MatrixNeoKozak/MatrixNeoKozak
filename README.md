@@ -88,7 +88,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-60-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-70,694-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-70,699-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -109,7 +109,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,647 | [#29](https://github.com/metowolf/iplist/pull/29 "fix(ci): use rm -rf for robust data cleanup") | IP CIDRs List / IP 地址列表 |
 | **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,634 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 | **[jmoenig/Snap](https://github.com/jmoenig/Snap)** | ⭐ 1,604 | [#3544](https://github.com/jmoenig/Snap/pull/3544 "Fix potential undefined reference to window.parent in TuneScope.js") | a visual programming language inspired by Scratch |
-| **[psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)** | ⭐ 1,580 | [#67](https://github.com/psalias2006/gpu-hot/pull/67 "Fix font-display swap issue in Google Fonts link causing slow rendering") | 🔥 Real-time NVIDIA GPU dashboard |
+| **[psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)** | ⭐ 1,581 | [#67](https://github.com/psalias2006/gpu-hot/pull/67 "Fix font-display swap issue in Google Fonts link causing slow rendering") | 🔥 Real-time NVIDIA GPU dashboard |
 <!-- STATS_SECTION:END -->
 
 ---
