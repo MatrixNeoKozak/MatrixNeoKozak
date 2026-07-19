@@ -87,20 +87,20 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 
 <!-- STATS_SECTION:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributed%20Repositories-61-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-72,232-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Contributed%20Repositories-60-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-70,688-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
 
 | Repository | Stars | Last Merged PR | Description |
 | :--- | :---: | :---: | :--- |
-| **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 4,936 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
+| **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 4,937 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
 | **[shower/shower](https://github.com/shower/shower)** | ⭐ 4,876 | [#408](https://github.com/shower/shower/pull/408 "Parse component timings without space separators") | Shower HTML presentation engine |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,088 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
 | **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,021 | [#174](https://github.com/xyproto/algernon/pull/174 "feat: allow SIGUSR2 to clear the cache") | Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++ |
 | **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 2,898 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
-| **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 2,896 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
+| **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 2,897 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
 | **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 2,675 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | The next-generation ad blocker for Safari. |
 | **[NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)** | ⭐ 2,392 | [#1645](https://github.com/NASA-AMMOS/3DTilesRendererJS/pull/1645 "fix: vitest: include .tsx files in test execution") | Renderer for 3D Tiles in Javascript using three.js, Babylon.js, and r3f |
 | **[ollm/OpenComic](https://github.com/ollm/OpenComic)** | ⭐ 1,913 | [#596](https://github.com/ollm/OpenComic/pull/596 "fix: ensure window closes even if cleanup fails") | Comic and Manga reader, written with Node.js and using Electron |
@@ -109,7 +109,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,647 | [#29](https://github.com/metowolf/iplist/pull/29 "fix(ci): use rm -rf for robust data cleanup") | IP CIDRs List / IP 地址列表 |
 | **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,634 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 | **[jmoenig/Snap](https://github.com/jmoenig/Snap)** | ⭐ 1,604 | [#3544](https://github.com/jmoenig/Snap/pull/3544 "Fix potential undefined reference to window.parent in TuneScope.js") | a visual programming language inspired by Scratch |
-| **[psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)** | ⭐ 1,579 | [#67](https://github.com/psalias2006/gpu-hot/pull/67 "Fix font-display swap issue in Google Fonts link causing slow rendering") | 🔥 Real-time NVIDIA GPU dashboard |
+| **[psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)** | ⭐ 1,580 | [#67](https://github.com/psalias2006/gpu-hot/pull/67 "Fix font-display swap issue in Google Fonts link causing slow rendering") | 🔥 Real-time NVIDIA GPU dashboard |
 <!-- STATS_SECTION:END -->
 
 ---
