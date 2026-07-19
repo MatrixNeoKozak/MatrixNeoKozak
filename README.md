@@ -88,7 +88,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-60-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-70,704-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-70,705-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -103,10 +103,10 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 2,898 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
 | **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 2,675 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | The next-generation ad blocker for Safari. |
 | **[NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)** | ⭐ 2,392 | [#1645](https://github.com/NASA-AMMOS/3DTilesRendererJS/pull/1645 "fix: vitest: include .tsx files in test execution") | Renderer for 3D Tiles in Javascript using three.js, Babylon.js, and r3f |
-| **[ollm/OpenComic](https://github.com/ollm/OpenComic)** | ⭐ 1,913 | [#596](https://github.com/ollm/OpenComic/pull/596 "fix: ensure window closes even if cleanup fails") | Comic and Manga reader, written with Node.js and using Electron |
+| **[ollm/OpenComic](https://github.com/ollm/OpenComic)** | ⭐ 1,912 | [#596](https://github.com/ollm/OpenComic/pull/596 "fix: ensure window closes even if cleanup fails") | Comic and Manga reader, written with Node.js and using Electron |
 | **[appium/appium-inspector](https://github.com/appium/appium-inspector)** | ⭐ 1,861 | [#2952](https://github.com/appium/appium-inspector/pull/2952 "fix(actions): extract shared timeout-handling logic and prevent silent failure in fetchAllSessions") | A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server |
 | **[gre/bezier-easing](https://github.com/gre/bezier-easing)** | ⭐ 1,775 | [#70](https://github.com/gre/bezier-easing/pull/70 "feat: add TypeScript definition files") | cubic-bezier implementation for your JavaScript animation easings – MIT License |
-| **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,647 | [#29](https://github.com/metowolf/iplist/pull/29 "fix(ci): use rm -rf for robust data cleanup") | IP CIDRs List / IP 地址列表 |
+| **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,648 | [#29](https://github.com/metowolf/iplist/pull/29 "fix(ci): use rm -rf for robust data cleanup") | IP CIDRs List / IP 地址列表 |
 | **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,635 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 | **[jmoenig/Snap](https://github.com/jmoenig/Snap)** | ⭐ 1,604 | [#3544](https://github.com/jmoenig/Snap/pull/3544 "Fix potential undefined reference to window.parent in TuneScope.js") | a visual programming language inspired by Scratch |
 | **[psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)** | ⭐ 1,581 | [#67](https://github.com/psalias2006/gpu-hot/pull/67 "Fix font-display swap issue in Google Fonts link causing slow rendering") | 🔥 Real-time NVIDIA GPU dashboard |
