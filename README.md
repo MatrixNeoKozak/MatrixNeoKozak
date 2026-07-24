@@ -88,14 +88,14 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-60-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-70,990-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-70,998-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
 
 | Repository | Stars | Last Merged PR | Description |
 | :--- | :---: | :---: | :--- |
-| **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 5,004 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
+| **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 5,007 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
 | **[shower/shower](https://github.com/shower/shower)** | ⭐ 4,876 | [#408](https://github.com/shower/shower/pull/408 "Parse component timings without space separators") | Shower HTML presentation engine |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,092 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
 | **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,022 | [#174](https://github.com/xyproto/algernon/pull/174 "feat: allow SIGUSR2 to clear the cache") | Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++ |
@@ -106,7 +106,7 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 | **[ollm/OpenComic](https://github.com/ollm/OpenComic)** | ⭐ 1,921 | [#596](https://github.com/ollm/OpenComic/pull/596 "fix: ensure window closes even if cleanup fails") | Comic and Manga reader, written with Node.js and using Electron |
 | **[appium/appium-inspector](https://github.com/appium/appium-inspector)** | ⭐ 1,867 | [#2952](https://github.com/appium/appium-inspector/pull/2952 "fix(actions): extract shared timeout-handling logic and prevent silent failure in fetchAllSessions") | A GUI inspector for mobile apps and more, powered by a (separately installed) Appium server |
 | **[gre/bezier-easing](https://github.com/gre/bezier-easing)** | ⭐ 1,775 | [#70](https://github.com/gre/bezier-easing/pull/70 "feat: add TypeScript definition files") | cubic-bezier implementation for your JavaScript animation easings – MIT License |
-| **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,651 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
+| **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 1,652 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 | **[metowolf/iplist](https://github.com/metowolf/iplist)** | ⭐ 1,650 | [#29](https://github.com/metowolf/iplist/pull/29 "fix(ci): use rm -rf for robust data cleanup") | IP CIDRs List / IP 地址列表 |
 | **[jmoenig/Snap](https://github.com/jmoenig/Snap)** | ⭐ 1,604 | [#3544](https://github.com/jmoenig/Snap/pull/3544 "Fix potential undefined reference to window.parent in TuneScope.js") | a visual programming language inspired by Scratch |
 | **[psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot)** | ⭐ 1,585 | [#67](https://github.com/psalias2006/gpu-hot/pull/67 "Fix font-display swap issue in Google Fonts link causing slow rendering") | 🔥 Real-time NVIDIA GPU dashboard |
