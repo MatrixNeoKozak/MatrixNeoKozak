@@ -20,12 +20,6 @@
 
 ---
 
-### 🌌 Featured Project: Matrix ASCII Galaxy Animation
-I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy Animation** hosted right in this repository!
-*   **Live Demo:** [Open Galaxy Simulation](https://matrixneokozak.github.io/MatrixNeoKozak/)
-*   **Key Features:** Smart mobile responsiveness, custom particle system, authentic green & purple Matrix palette.
-
----
 
 ### 🛠️ Tech Stack & Skills
 
@@ -54,14 +48,6 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MatrixNeoKozak&theme=matrix&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
 
 ### 📊 Matrix Stats
 
@@ -117,10 +103,4 @@ I love creative coding and retro aesthetics. Check out the **Matrix ASCII Galaxy
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/MatrixNeoKozak/MatrixNeoKozak/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  <i>"Follow the white rabbit..." 🐇</i>
 </p>
