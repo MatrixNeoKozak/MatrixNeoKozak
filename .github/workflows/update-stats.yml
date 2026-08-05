@@ -29,14 +29,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node update-stats.js
 
-      - name: Generate Stats Cards
-        run: node update-cards.js
-
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md cards/
+          git add README.md
           if ! git diff-index --quiet HEAD; then
             git commit -m "Update open source contribution stats [skip ci]"
             git push
