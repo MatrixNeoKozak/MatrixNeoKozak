@@ -54,14 +54,11 @@
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/MatrixNeoKozak/MatrixNeoKozak/main/cards/stats.svg" alt="GitHub Stats" width="400" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/MatrixNeoKozak/MatrixNeoKozak/main/cards/top-langs.svg" alt="Top Languages" width="400" />
+      <img src="https://raw.githubusercontent.com/MatrixNeoKozak/MatrixNeoKozak/main/cards/rank.svg" alt="GitHub Account Rating" width="400" />
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" colspan="2">
+    <td align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatrixNeoKozak&theme=dark&background=0b0b14&ring=00ff7f&fire=b399ff&currStreakLabel=00ff7f&sideNums=a9b1d6&dates=a9b1d6" alt="Streak Stats" width="810" />
     </td>
   </tr>
