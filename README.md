@@ -54,10 +54,10 @@
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=MatrixNeoKozak&show_icons=true&theme=dark&bg_color=0b0b14&title_color=00ff7f&icon_color=00ff7f&text_color=a9b1d6" alt="GitHub Stats" width="400" />
+      <img src="https://raw.githubusercontent.com/MatrixNeoKozak/MatrixNeoKozak/main/cards/stats.svg" alt="GitHub Stats" width="400" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatrixNeoKozak&layout=compact&theme=dark&bg_color=0b0b14&title_color=00ff7f&icon_color=00ff7f&text_color=a9b1d6" alt="Top Languages" width="400" />
+      <img src="https://raw.githubusercontent.com/MatrixNeoKozak/MatrixNeoKozak/main/cards/top-langs.svg" alt="Top Languages" width="400" />
     </td>
   </tr>
   <tr>
