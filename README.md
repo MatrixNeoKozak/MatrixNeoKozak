@@ -62,19 +62,19 @@
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-63-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-83,549-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-83,552-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
 
 | Repository | Stars | Last Merged PR | Description |
 | :--- | :---: | :---: | :--- |
-| **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 5,306 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
+| **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 5,307 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
 | **[nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)** | ⭐ 5,152 | [#884](https://github.com/nikkinikki-org/OpenWrt-nikki/pull/884 "fix(rpcd): use TLS listen address for API requests when configured") | Transparent Proxy with Mihomo on OpenWrt. |
 | **[shower/shower](https://github.com/shower/shower)** | ⭐ 4,873 | [#408](https://github.com/shower/shower/pull/408 "Parse component timings without space separators") | Shower HTML presentation engine |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,109 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
 | **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,023 | [#174](https://github.com/xyproto/algernon/pull/174 "feat: allow SIGUSR2 to clear the cache") | Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19 without npm, SQLite, and PostgreSQL support ++ |
-| **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 2,938 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
+| **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 2,939 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
 | **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 2,926 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
 | **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 2,723 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | The next-generation ad blocker for Safari. |
 | **[NASA-AMMOS/3DTilesRendererJS](https://github.com/NASA-AMMOS/3DTilesRendererJS)** | ⭐ 2,422 | [#1645](https://github.com/NASA-AMMOS/3DTilesRendererJS/pull/1645 "fix: vitest: include .tsx files in test execution") | Renderer for 3D Tiles in Javascript using three.js, Babylon.js, and r3f |
