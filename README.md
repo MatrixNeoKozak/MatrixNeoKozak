@@ -62,14 +62,14 @@
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-63-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-83,628-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-83,631-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
 
 | Repository | Stars | Last Merged PR | Description |
 | :--- | :---: | :---: | :--- |
-| **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 5,324 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
+| **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 5,325 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
 | **[nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)** | ⭐ 5,158 | [#884](https://github.com/nikkinikki-org/OpenWrt-nikki/pull/884 "fix(rpcd): use TLS listen address for API requests when configured") | Transparent Proxy with Mihomo on OpenWrt. |
 | **[shower/shower](https://github.com/shower/shower)** | ⭐ 4,873 | [#408](https://github.com/shower/shower/pull/408 "Parse component timings without space separators") | Shower HTML presentation engine |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,108 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
