@@ -62,7 +62,7 @@
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-64-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-86,583-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-86,584-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -74,7 +74,7 @@
 | **[shower/shower](https://github.com/shower/shower)** | ⭐ 4,874 | [#408](https://github.com/shower/shower/pull/408 "Parse component timings without space separators") | Shower HTML presentation engine |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,111 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
 | **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,025 | [#174](https://github.com/xyproto/algernon/pull/174 "feat: allow SIGUSR2 to clear the cache") | Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, npm-less React 19, SQLite, and PostgreSQL support ++ |
-| **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 2,942 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
+| **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 2,943 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
 | **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 2,934 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
 | **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 2,764 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | The next-generation ad blocker for Safari. |
 | **[chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)** | ⭐ 2,458 | [#171](https://github.com/chuspeeism/dashi-taskboard/pull/171 "fix(ai-chat): hide console window on Windows when spawning AI turn process") | No description provided. |
