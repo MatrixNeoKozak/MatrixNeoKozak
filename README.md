@@ -62,7 +62,7 @@
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-79-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-135,849-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-135,916-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -77,13 +77,13 @@
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,133 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
 | **[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)** | ⭐ 3,865 | [#6494](https://github.com/SchemaStore/schemastore/pull/6494 "fix(kustomization.json): update FieldSelector fieldpath to fieldPath") | A collection of JSON schema files including full API |
 | **[zhblue/hustoj](https://github.com/zhblue/hustoj)** | ⭐ 3,812 | [#1198](https://github.com/zhblue/hustoj/pull/1198 "docs: clarify python pandas module availability and usage in faqs") | Popular Simple Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 简单实用的开源OJ系统 |
-| **[Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge)** | ⭐ 3,737 | [#54](https://github.com/Rabbit-Spec/Surge/pull/54 "fix(stream-all): handle Disney+ status error branch in results") | Surge自用配置以及模块和脚本 |
-| **[edenfunf/reelmimic](https://github.com/edenfunf/reelmimic)** | ⭐ 3,452 | [#70](https://github.com/edenfunf/reelmimic/pull/70 "fix: reject non-video reference file uploads with 400 status") | Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you. |
-| **[chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)** | ⭐ 3,358 | [#171](https://github.com/chuspeeism/dashi-taskboard/pull/171 "fix(ai-chat): hide console window on Windows when spawning AI turn process") | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
+| **[Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge)** | ⭐ 3,736 | [#54](https://github.com/Rabbit-Spec/Surge/pull/54 "fix(stream-all): handle Disney+ status error branch in results") | Surge自用配置以及模块和脚本 |
+| **[edenfunf/reelmimic](https://github.com/edenfunf/reelmimic)** | ⭐ 3,500 | [#70](https://github.com/edenfunf/reelmimic/pull/70 "fix: reject non-video reference file uploads with 400 status") | Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you. |
+| **[chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)** | ⭐ 3,359 | [#171](https://github.com/chuspeeism/dashi-taskboard/pull/171 "fix(ai-chat): hide console window on Windows when spawning AI turn process") | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
 | **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 3,095 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
 | **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 3,075 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper. |
 | **[xyproto/algernon](https://github.com/xyproto/algernon)** | ⭐ 3,031 | [#174](https://github.com/xyproto/algernon/pull/174 "feat: allow SIGUSR2 to clear the cache") | Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, npm-less React 19, SQLite, and PostgreSQL support ++ |
-| **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 3,007 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
+| **[silexlabs/Silex](https://github.com/silexlabs/Silex)** | ⭐ 3,008 | [#1733](https://github.com/silexlabs/Silex/pull/1733 "fix: exit with error code if package build fails") | Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together. |
 <!-- STATS_SECTION:END -->
 
 ---
