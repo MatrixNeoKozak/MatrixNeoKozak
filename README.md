@@ -62,7 +62,7 @@
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-81-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-140,631-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-140,650-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -73,7 +73,7 @@
 | **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 5,659 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
 | **[nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)** | ⭐ 5,382 | [#884](https://github.com/nikkinikki-org/OpenWrt-nikki/pull/884 "fix(rpcd): use TLS listen address for API requests when configured") | Transparent Proxy with Mihomo on OpenWrt. |
 | **[shower/shower](https://github.com/shower/shower)** | ⭐ 4,877 | [#408](https://github.com/shower/shower/pull/408 "Parse component timings without space separators") | Shower HTML presentation engine |
-| **[wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)** | ⭐ 4,429 | [#616](https://github.com/wmariuss/awesome-devops/pull/616 "docs: remove redundant free description from Fakecloud entry") | A curated list of awesome DevOps platforms, tools, practices and resources |
+| **[wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)** | ⭐ 4,430 | [#616](https://github.com/wmariuss/awesome-devops/pull/616 "docs: remove redundant free description from Fakecloud entry") | A curated list of awesome DevOps platforms, tools, practices and resources |
 | **[adaltas/node-csv](https://github.com/adaltas/node-csv)** | ⭐ 4,286 | [#525](https://github.com/adaltas/node-csv/pull/525 "fix(csv-parse): correct typo in group_columns_by_name error message") | Full featured CSV parser with simple api and tested against large datasets. |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,139 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
 | **[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)** | ⭐ 3,867 | [#6494](https://github.com/SchemaStore/schemastore/pull/6494 "fix(kustomization.json): update FieldSelector fieldpath to fieldPath") | A collection of JSON schema files including full API |
