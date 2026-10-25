@@ -62,7 +62,7 @@
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-82-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-143,204-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-143,227-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -70,13 +70,13 @@
 | Repository | Stars | Last Merged PR | Description |
 | :--- | :---: | :---: | :--- |
 | **[dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)** | ⭐ 5,853 | [#1019](https://github.com/dotenvx/dotenvx/pull/1019 "fix: use atomic file writes in protect and init helpers") | a secure dotenv—from the creator of `dotenv` |
-| **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 5,673 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
+| **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 5,671 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
 | **[nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)** | ⭐ 5,404 | [#884](https://github.com/nikkinikki-org/OpenWrt-nikki/pull/884 "fix(rpcd): use TLS listen address for API requests when configured") | Transparent Proxy with Mihomo on OpenWrt. |
 | **[shower/shower](https://github.com/shower/shower)** | ⭐ 4,876 | [#408](https://github.com/shower/shower/pull/408 "Parse component timings without space separators") | Shower HTML presentation engine |
 | **[wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)** | ⭐ 4,436 | [#616](https://github.com/wmariuss/awesome-devops/pull/616 "docs: remove redundant free description from Fakecloud entry") | A curated list of awesome DevOps platforms, tools, practices and resources |
 | **[adaltas/node-csv](https://github.com/adaltas/node-csv)** | ⭐ 4,287 | [#525](https://github.com/adaltas/node-csv/pull/525 "fix(csv-parse): correct typo in group_columns_by_name error message") | Full featured CSV parser with simple api and tested against large datasets. |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,139 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
-| **[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)** | ⭐ 3,872 | [#6494](https://github.com/SchemaStore/schemastore/pull/6494 "fix(kustomization.json): update FieldSelector fieldpath to fieldPath") | A collection of JSON schema files including full API |
+| **[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)** | ⭐ 3,873 | [#6494](https://github.com/SchemaStore/schemastore/pull/6494 "fix(kustomization.json): update FieldSelector fieldpath to fieldPath") | A collection of JSON schema files including full API |
 | **[zhblue/hustoj](https://github.com/zhblue/hustoj)** | ⭐ 3,816 | [#1198](https://github.com/zhblue/hustoj/pull/1198 "docs: clarify python pandas module availability and usage in faqs") | Popular Simple Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 简单实用的开源OJ系统 |
 | **[Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge)** | ⭐ 3,746 | [#54](https://github.com/Rabbit-Spec/Surge/pull/54 "fix(stream-all): handle Disney+ status error branch in results") | Surge自用配置以及模块和脚本 |
 | **[chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)** | ⭐ 3,394 | [#171](https://github.com/chuspeeism/dashi-taskboard/pull/171 "fix(ai-chat): hide console window on Windows when spawning AI turn process") | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
