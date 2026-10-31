@@ -62,7 +62,7 @@
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-82-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-144,196-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-144,217-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -79,10 +79,10 @@
 | **[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)** | ⭐ 3,878 | [#6494](https://github.com/SchemaStore/schemastore/pull/6494 "fix(kustomization.json): update FieldSelector fieldpath to fieldPath") | A collection of JSON schema files including full API |
 | **[zhblue/hustoj](https://github.com/zhblue/hustoj)** | ⭐ 3,819 | [#1198](https://github.com/zhblue/hustoj/pull/1198 "docs: clarify python pandas module availability and usage in faqs") | Popular Simple Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 简单实用的开源OJ系统 |
 | **[Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge)** | ⭐ 3,752 | [#54](https://github.com/Rabbit-Spec/Surge/pull/54 "fix(stream-all): handle Disney+ status error branch in results") | Surge自用配置以及模块和脚本 |
-| **[chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)** | ⭐ 3,421 | [#171](https://github.com/chuspeeism/dashi-taskboard/pull/171 "fix(ai-chat): hide console window on Windows when spawning AI turn process") | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
-| **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 3,164 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription. |
+| **[chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)** | ⭐ 3,422 | [#171](https://github.com/chuspeeism/dashi-taskboard/pull/171 "fix(ai-chat): hide console window on Windows when spawning AI turn process") | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
+| **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 3,165 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription. |
 | **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 3,115 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
-| **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** | ⭐ 3,086 | [#83](https://github.com/QwenAudio/qwen-audio-agent/pull/83 "fix: deliver reminders persisted as queued/running instead of losing them on restart") | A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents |
+| **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** | ⭐ 3,088 | [#83](https://github.com/QwenAudio/qwen-audio-agent/pull/83 "fix: deliver reminders persisted as queued/running instead of losing them on restart") | A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents |
 | **[dabeng/OrgChart](https://github.com/dabeng/OrgChart)** | ⭐ 3,046 | [#812](https://github.com/dabeng/OrgChart/pull/812 "fix option inheritance for visibleLevel and drag/compact compatibility") | It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart. |
 <!-- STATS_SECTION:END -->
 
