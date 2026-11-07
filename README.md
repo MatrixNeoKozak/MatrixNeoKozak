@@ -62,7 +62,7 @@
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-82-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-146,784-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-146,787-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -76,13 +76,13 @@
 | **[wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)** | ⭐ 4,448 | [#616](https://github.com/wmariuss/awesome-devops/pull/616 "docs: remove redundant free description from Fakecloud entry") | A curated list of awesome DevOps platforms, tools, practices and resources |
 | **[adaltas/node-csv](https://github.com/adaltas/node-csv)** | ⭐ 4,288 | [#525](https://github.com/adaltas/node-csv/pull/525 "fix(csv-parse): correct typo in group_columns_by_name error message") | Full featured CSV parser with simple api and tested against large datasets. |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,144 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
-| **[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)** | ⭐ 3,883 | [#6494](https://github.com/SchemaStore/schemastore/pull/6494 "fix(kustomization.json): update FieldSelector fieldpath to fieldPath") | A collection of JSON schema files including full API |
+| **[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)** | ⭐ 3,882 | [#6494](https://github.com/SchemaStore/schemastore/pull/6494 "fix(kustomization.json): update FieldSelector fieldpath to fieldPath") | A collection of JSON schema files including full API |
 | **[zhblue/hustoj](https://github.com/zhblue/hustoj)** | ⭐ 3,820 | [#1198](https://github.com/zhblue/hustoj/pull/1198 "docs: clarify python pandas module availability and usage in faqs") | Popular Simple Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 简单实用的开源OJ系统 |
 | **[Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge)** | ⭐ 3,762 | [#54](https://github.com/Rabbit-Spec/Surge/pull/54 "fix(stream-all): handle Disney+ status error branch in results") | Surge自用配置以及模块和脚本 |
 | **[chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)** | ⭐ 3,468 | [#171](https://github.com/chuspeeism/dashi-taskboard/pull/171 "fix(ai-chat): hide console window on Windows when spawning AI turn process") | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
-| **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 3,204 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription. |
+| **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 3,203 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription. |
 | **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** | ⭐ 3,163 | [#83](https://github.com/QwenAudio/qwen-audio-agent/pull/83 "fix: deliver reminders persisted as queued/running instead of losing them on restart") | A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents |
-| **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 3,128 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
+| **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 3,127 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
 | **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 3,064 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 <!-- STATS_SECTION:END -->
 
