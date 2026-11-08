@@ -62,7 +62,7 @@
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-82-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-146,892-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-146,919-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -81,7 +81,7 @@
 | **[Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge)** | ⭐ 3,764 | [#54](https://github.com/Rabbit-Spec/Surge/pull/54 "fix(stream-all): handle Disney+ status error branch in results") | Surge自用配置以及模块和脚本 |
 | **[chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)** | ⭐ 3,469 | [#171](https://github.com/chuspeeism/dashi-taskboard/pull/171 "fix(ai-chat): hide console window on Windows when spawning AI turn process") | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
 | **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 3,210 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription. |
-| **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** | ⭐ 3,171 | [#83](https://github.com/QwenAudio/qwen-audio-agent/pull/83 "fix: deliver reminders persisted as queued/running instead of losing them on restart") | A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents |
+| **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** | ⭐ 3,172 | [#83](https://github.com/QwenAudio/qwen-audio-agent/pull/83 "fix: deliver reminders persisted as queued/running instead of losing them on restart") | A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents |
 | **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 3,127 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
 | **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 3,067 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 <!-- STATS_SECTION:END -->
