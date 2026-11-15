@@ -62,7 +62,7 @@
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-82-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-147,810-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-147,835-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -70,8 +70,8 @@
 | Repository | Stars | Last Merged PR | Description |
 | :--- | :---: | :---: | :--- |
 | **[dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)** | ⭐ 5,878 | [#1019](https://github.com/dotenvx/dotenvx/pull/1019 "fix: use atomic file writes in protect and init helpers") | a secure dotenv—from the creator of `dotenv` |
-| **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 5,749 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
-| **[nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)** | ⭐ 5,494 | [#884](https://github.com/nikkinikki-org/OpenWrt-nikki/pull/884 "fix(rpcd): use TLS listen address for API requests when configured") | Transparent Proxy with Mihomo on OpenWrt. |
+| **[GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover)** | ⭐ 5,750 | [#108](https://github.com/GargantuaX/gemini-watermark-remover/pull/108 "fix(core): prevent TypeError when hasReliableStandardWatermarkSignal receives null or undefined") | A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法 |
+| **[nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki)** | ⭐ 5,495 | [#884](https://github.com/nikkinikki-org/OpenWrt-nikki/pull/884 "fix(rpcd): use TLS listen address for API requests when configured") | Transparent Proxy with Mihomo on OpenWrt. |
 | **[shower/shower](https://github.com/shower/shower)** | ⭐ 4,879 | [#408](https://github.com/shower/shower/pull/408 "Parse component timings without space separators") | Shower HTML presentation engine |
 | **[wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)** | ⭐ 4,456 | [#616](https://github.com/wmariuss/awesome-devops/pull/616 "docs: remove redundant free description from Fakecloud entry") | A curated list of awesome DevOps platforms, tools, practices and resources |
 | **[adaltas/node-csv](https://github.com/adaltas/node-csv)** | ⭐ 4,289 | [#525](https://github.com/adaltas/node-csv/pull/525 "fix(csv-parse): correct typo in group_columns_by_name error message") | Full featured CSV parser with simple api and tested against large datasets. |
@@ -82,8 +82,8 @@
 | **[chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)** | ⭐ 3,493 | [#171](https://github.com/chuspeeism/dashi-taskboard/pull/171 "fix(ai-chat): hide console window on Windows when spawning AI turn process") | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
 | **[0xCUB3/wBlock](https://github.com/0xCUB3/wBlock)** | ⭐ 3,236 | [#444](https://github.com/0xCUB3/wBlock/pull/444 "fix: resolve redundant in-process updates by correcting XPC timeout and proxy error handling") | Free, open-source Safari ad blocker for macOS, iOS, iPadOS and visionOS. Up to 750,000 rules, custom filter lists, userscripts and userstyles. No subscription. |
 | **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** | ⭐ 3,228 | [#83](https://github.com/QwenAudio/qwen-audio-agent/pull/83 "fix: deliver reminders persisted as queued/running instead of losing them on restart") | A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents |
-| **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 3,137 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
-| **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 3,106 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
+| **[dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)** | ⭐ 3,138 | [#195](https://github.com/dwgx/WindsurfAPI/pull/195 "fix: return 400 for malformed JSON in dashboard API") | Turn Windsurf / Devin Desktop's 100+ AI models (Claude, GPT, Gemini, DeepSeek, Kimi, GLM, SWE) into OpenAI-, Anthropic- & Gemini-compatible APIs. Zero-dependency self-hosted reverse proxy for Claude Code, Cline & Cursor. 把 Windsurf/Devin 云端 100+ 模型变成三套兼容 API。 |
+| **[kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS)** | ⭐ 3,108 | [#103](https://github.com/kanoqwq/UFI-TOOLS/pull/103 "fix: replace static salt with cryptographically secure random salt") | A functional tools for z*e devices (F50 \| U30 Air) |
 <!-- STATS_SECTION:END -->
 
 ---
