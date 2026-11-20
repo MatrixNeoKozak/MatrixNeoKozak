@@ -62,7 +62,7 @@
 <!-- STATS_SECTION:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/Contributed%20Repositories-82-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Contributed Repos" />
-  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-148,431-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/Total%20Contributed%20Stars-148,444-00ff7f?style=for-the-badge&logo=github&logoColor=black" alt="Total Stars" />
 </p>
 
 ### 🏆 Top Contributed Repositories (by Stars)
@@ -76,7 +76,7 @@
 | **[wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops)** | ⭐ 4,460 | [#616](https://github.com/wmariuss/awesome-devops/pull/616 "docs: remove redundant free description from Fakecloud entry") | A curated list of awesome DevOps platforms, tools, practices and resources |
 | **[adaltas/node-csv](https://github.com/adaltas/node-csv)** | ⭐ 4,289 | [#525](https://github.com/adaltas/node-csv/pull/525 "fix(csv-parse): correct typo in group_columns_by_name error message") | Full featured CSV parser with simple api and tested against large datasets. |
 | **[lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)** | ⭐ 4,146 | [#133](https://github.com/lirantal/nodejs-cli-apps-best-practices/pull/133 "test: add argument injection evaluation 🤖🤖🤖") | The largest Node.js CLI Apps best practices list ✨ |
-| **[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)** | ⭐ 3,890 | [#6494](https://github.com/SchemaStore/schemastore/pull/6494 "fix(kustomization.json): update FieldSelector fieldpath to fieldPath") | A collection of JSON schema files including full API |
+| **[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)** | ⭐ 3,891 | [#6494](https://github.com/SchemaStore/schemastore/pull/6494 "fix(kustomization.json): update FieldSelector fieldpath to fieldPath") | A collection of JSON schema files including full API |
 | **[zhblue/hustoj](https://github.com/zhblue/hustoj)** | ⭐ 3,827 | [#1198](https://github.com/zhblue/hustoj/pull/1198 "docs: clarify python pandas module availability and usage in faqs") | Popular Simple Open Source Online Judge based on PHP/C++/MySQL/Linux  for ACM/ICPC and NOIP training, with easy installation. 简单实用的开源OJ系统 |
 | **[Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge)** | ⭐ 3,791 | [#54](https://github.com/Rabbit-Spec/Surge/pull/54 "fix(stream-all): handle Disney+ status error branch in results") | Surge自用配置以及模块和脚本 |
 | **[chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)** | ⭐ 3,513 | [#171](https://github.com/chuspeeism/dashi-taskboard/pull/171 "fix(ai-chat): hide console window on Windows when spawning AI turn process") | 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness |
